@@ -1,6 +1,6 @@
 import React from 'react'
-import patternDivider from "./images/pattern-divider-mobile.svg"
-import dice from "./images/icon-dice.svg"
+import patternDivider from "src/assets/pattern-divider-mobile.svg"
+import dice from "src/assets/icon-dice.svg"
 
 const Advice = ({ advice, onClick }) => {
   return (
